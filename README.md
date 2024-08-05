@@ -6,7 +6,9 @@ The project focuses on generating actionable insights to aid management in makin
 The analysis is structured into the following dashboard pages:
 
 **Management Dashboard**: Provides an overview of key performance indicators (KPIs) and metrics critical for senior management.
+
 **Customer Dashboard**: Focuses on customer-related metrics, including customer demographics, purchase patterns, and segmentation.
+
 **Territory Dashboard**: Analyzes data by geographic regions to understand regional performance and identify trends and opportunities.
 **Product Dashboard**: Highlights product performance, including sales, profitability, and inventory levels.
 **Insights Dashboard**: Summarizes key insights and actionable recommendations derived from the analysis.
